@@ -5,6 +5,6 @@ Projects I'm working on (in no particular order):
 - Melodii
 - void-mining
 
-Here's my [website](https://xelphyr.xyz).
+Here's my [website](https://xelphyr.xyz) (WIP).
 
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2243&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
